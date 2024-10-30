@@ -1,0 +1,97 @@
+# Copyright (C) 2023 affilipoint.com
+# This file is distributed under the same license as the IgniterAuth plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: IgniterAuth 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/igniter-auth\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-04-10T14:14:18+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: igniter-auth\n"
+
+#. Plugin Name of the plugin
+msgid "IgniterAuth"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://affilipoint.com/plugins/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Protects your website from the public and search engines with HTTP Basic Authentication."
+msgstr ""
+
+#. Author of the plugin
+msgid "affilipoint.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://affilipoint.com/"
+msgstr ""
+
+#: includes/AuthClass.php:72
+msgid "Unauthorized Access"
+msgstr ""
+
+#: includes/AuthClass.php:96
+msgid "Settings"
+msgstr ""
+
+#: includes/AuthClass.php:125
+msgid "<b>IgniterAuth is Active!</b> This site is not accessible to the public."
+msgstr ""
+
+#: includes/AuthClass.php:126
+msgid "Deactivate"
+msgstr ""
+
+#: includes/AuthClass.php:157
+msgid "Settings saved."
+msgstr ""
+
+#: includes/templates/settings.tpl.php:2
+msgid "IgniterAuth Settings"
+msgstr ""
+
+#: includes/templates/settings.tpl.php:3
+msgid "Choose whether to allow access to the site WordPress users or create a custom username and password."
+msgstr ""
+
+#: includes/templates/settings.tpl.php:10
+#: includes/templates/settings.tpl.php:13
+msgid "Authenticate users"
+msgstr ""
+
+#: includes/templates/settings.tpl.php:16
+msgid "WordPress users"
+msgstr ""
+
+#: includes/templates/settings.tpl.php:20
+#: includes/templates/settings.tpl.php:35
+msgid "Custom username & password"
+msgstr ""
+
+#: includes/templates/settings.tpl.php:28
+msgid "Yes"
+msgstr ""
+
+#: includes/templates/settings.tpl.php:29
+msgid "No"
+msgstr ""
+
+#: includes/templates/settings.tpl.php:39
+msgid "Username"
+msgstr ""
+
+#: includes/templates/settings.tpl.php:45
+msgid "Password"
+msgstr ""
+
+#: includes/templates/settings.tpl.php:48
+msgid "Show password"
+msgstr ""

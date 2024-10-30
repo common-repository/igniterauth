@@ -1,0 +1,25 @@
+{
+    "name": "affilipoint.com/igniterauth",
+    "description" : "Protects your website from the public and search engines with HTTP Basic Authentication.",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "version": "1.0.0",
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "authors": [
+        {
+            "name": "Affilipoint.com",
+            "homepage": "https://affilipoint.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "IgniterAuth\\": [ "includes/" ]
+        }
+    },
+    "keywords": [
+        "wordpress", "authentication", "simple auth", "lock"
+    ]
+}
